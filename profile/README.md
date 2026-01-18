@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/LogixWaveAI.png" width="180" height="180" style="border-radius: 15%;" alt="LogixWave AI Logo">
   
-  # 🌊 LogixWave AI
+  # 🌊 LogixWaveAI
   ### *Architecting the Future with Intelligence & Code*
 
   <p align="center">
