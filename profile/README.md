@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" width="180" height="180" style="border-radius: 15%;" alt="LogixWaveAI Logo">
+  <img src="logo.png" width="220" height="220" style="border-radius: 15%;" alt="LogixWaveAI Logo">
   
   # 🌊 LogixWaveAI
   ### *Architecting the Future with Intelligence & Code*
