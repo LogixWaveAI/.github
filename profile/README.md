@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/LogixWaveAI.png" width="180" height="180" style="border-radius: 15%;" alt="LogixWave AI Logo">
+  <img src="https://github.com/LogixWaveAI.png" width="180" height="180" style="border-radius: 15%;" alt="LogixWaveAI Logo">
   
   # 🌊 LogixWaveAI
   ### *Architecting the Future with Intelligence & Code*
@@ -17,7 +17,7 @@
 
 ### 🚀 **Who We Are**
 
-**LogixWave AI** is a next-generation technology agency based in **Surat, India**. We are not just developers; we are **Digital Architects**. We combine the power of traditional software engineering with cutting-edge **Generative AI** to build scalable, future-proof solutions.
+**LogixWaveAI** is a next-generation technology agency based in **Surat, India**. We are not just developers; we are **Digital Architects**. We combine the power of traditional software engineering with cutting-edge **Generative AI** to build scalable, future-proof solutions.
 
 > 💡 **"From Concept to Cloud."** — Whether it's a sleek Mobile App, a complex Enterprise Platform in .NET, or an Autonomous AI Agent using LangGraph, we build it all.
 
@@ -41,8 +41,8 @@ We use the industry's most robust tools. **Old school reliability meets new scho
 ---
 
 <div align="center">
-  <h3>Ready to scale your business?</h3>
+  <h3>Ready to scale your business with AI?</h3>
   <p>🚀 <b>Let's build something extraordinary together.</b></p>
   <p>📧 <a href="mailto:contact@logixwaveai.com">contact@logixwaveai.com</a></p>
-  <p>© 2026 LogixWave AI. All Rights Reserved.</p>
+  <p>© 2026 LogixWaveAI LLP. All Rights Reserved.</p>
 </div>
